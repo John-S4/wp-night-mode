@@ -22,7 +22,7 @@ A simple WP plugin for night mode. It doesn't do anything too fancy or complicat
 * A little bit of CSS cleanup
 * Fixed 'prefers-color-scheme' so that it actually now works on all devices - Kudos to @JanBobolz
 
-- previous releases before this fork -
+previous releases before this fork
 
 ### V. 1.0.5
 
