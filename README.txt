@@ -1,8 +1,8 @@
 === WP Night Mode ===
-Contributors: markoarula
+Contributors: markoarula, john@S4
 Tags: background, brightness, button, color, dark, eyes, light, mode, night, protect, read, switch, text
 Requires at least: 4.0
-Tested up to: 4.9
+Tested up to: 5.8
 Requires PHP: 5.2.4
 Stable tag: 4.0
 License: GNU GPLv2 or later
