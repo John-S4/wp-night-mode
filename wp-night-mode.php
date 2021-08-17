@@ -8,7 +8,7 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              https://github.com/markoarula
+ * @link              https://github.com/John-S4/wp-night-mode
  * @since             1.0.0
  * @package           Wp_Night_Mode
  *
@@ -16,9 +16,9 @@
  * Plugin Name:       WP Night Mode
  * Plugin URI:        https://github.com/markoarula/wp-night-mode
  * Description:       Allow users to change the website style while reading at night, enabling them to easily read and spend more time on your site.
- * Version:           1.0.6
- * Author:            Marko Arula
- * Author URI:        https://github.com/markoarula
+ * Version:           1.1
+ * Author:            S4, based on work by Marko Arula
+ * Author URI:        https://s-4.host
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       wp-night-mode
