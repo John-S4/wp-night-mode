@@ -1,14 +1,12 @@
 # WP Night Mode
 
-This is a simple wordpress plugin for registration and logging via modal windows. You can use it, test it, expand it etc. What ever works for you.
+[![CodeFactor](https://www.codefactor.io/repository/github/john-s4/wp-night-mode/badge/master)](https://www.codefactor.io/repository/github/john-s4/wp-night-mode/overview/master)
+
+A simple WP plugin for night mode. It doesn't do anything too fancy or complicated, instead it adds a new CSS class to body when night mode is selected. 
 
 ## How to use
 
-You can download this repo and then just install plugin to your theme.
-
-After that, it's pretty easy to use it:
-
-1. Upload `wp-night-mode` to the `/wp-content/plugins/` directory
+1. You can download the zip file from this repo and then upload it to WordPres from the Add Plugins page.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Use `wp-night-mode` class on any element (for example Menu item) or `[wp-night-mode-button]` shortcode to show Night Mode toggle button
 4. Shortcode options:
@@ -47,3 +45,4 @@ After that, it's pretty easy to use it:
 * Added "Night Mode as Default" option (on first website visit user will see Night Mode and can switch to Light Mode)
 * Added `prefers-color-scheme` media query (media query to detect if the user has set their system to use a light or dark color theme)
 * Added "Toggle Size" option (easily change the size of the toggle button)
+
