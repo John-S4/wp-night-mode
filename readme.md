@@ -13,6 +13,9 @@ A simple WP plugin for night mode. It doesn't do anything too fancy or complicat
 	- "style" option, for Toggle Style. Use it like this: `[wp-night-mode-button style="4"]`
 5. Go to Customizer and set styles for Night Mode
 
+  <img src="screens/mysterious_beans.jpg" width="350">
+
+
 ## Changelog
 
 ### V. 1.1
