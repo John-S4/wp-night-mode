@@ -1,6 +1,6 @@
 # WP Night Mode
 
-[![CodeFactor](https://www.codefactor.io/repository/github/s4-hosting/wp-night-mode/badge)](https://www.codefactor.io/repository/github/s4-hosting/wp-night-mode)
+[![CodeFactor](https://www.codefactor.io/repository/github/s4-hosting/wp-night-mode/badge)](https://www.codefactor.io/repository/github/s4-hosting/wp-night-mode) [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=S4-Hosting_wp-night-mode&metric=security_rating)](https://sonarcloud.io/dashboard?id=S4-Hosting_wp-night-mode) [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=S4-Hosting_wp-night-mode&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=S4-Hosting_wp-night-mode)
 
 A simple WP plugin for night mode. It doesn't do anything too fancy or complicated, instead it adds a new CSS class to body when night mode is selected. 
 
