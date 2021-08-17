@@ -70,7 +70,7 @@
     .wpnm-button.style-2 .wpnm-button-inner-left {
         display: inline-block;
         position: relative;
-        padding: 0px;
+        padding: 0;
         font-size: 14px;
         line-height: 16px;
         cursor: pointer;
@@ -92,7 +92,7 @@
         -moz-border-radius: 100%;
         border-radius: 100%;
         left: 26px;
-        bottom: 0px;
+        bottom: 0;
         background: #FFB200;
         transform: rotate(45deg);
         box-shadow: 0 0 10px white;
@@ -356,15 +356,13 @@
     .wpnm-button.style-4 .wpnm-button-inner {
         height: 18px;
         width: 18px;
-        background: yellow;
         border-radius: 40px;
         position: absolute;
         pointer-events: none;
         top: 2px;
         right: 2px;
         transition: right 0.5s ease, box-shadow 0.5s ease, border 0.5s ease, top 0.5s ease;
-        background: #EDDDD4;
-        background: linear-gradient(-135deg, #edddd4 0%, #fcfafa 50%, #edddd4 51%, #fcfafa 100%);
+        background: #EDDDD4 linear-gradient(-135deg, #edddd4 0%, #fcfafa 50%, #edddd4 51%, #fcfafa 100%);
         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#fefefe',GradientType=1 );
         box-shadow: 0 0 5px 1px #EDDDD4;
         border: 5px solid rgba(237, 221, 212, 0.5);
@@ -373,13 +371,11 @@
         content: '';
         height: 19.8px;
         width: 19.8px;
-        background: red;
         top: -1px;
         right: -1px;
         position: absolute;
         border-radius: 40px;
-        background: #FFFFFF;
-        background: radial-gradient(ellipse at center, white 0%, #ffbe0b 50%, #fb5607 100%);
+        background: #FFFFFF radial-gradient(ellipse at center, white 0%, #ffbe0b 50%, #fb5607 100%);
         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefcea', endColorstr='#f1da36',GradientType=1 );
         transition: opacity 0.5s ease;
         opacity: 0;
