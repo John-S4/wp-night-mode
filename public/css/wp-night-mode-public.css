@@ -361,15 +361,13 @@
     .wpnm-button.style-4 .wpnm-button-inner {
         height: 1.125em;
         width: 1.125em;
-        background: yellow;
         border-radius: 2.5em;
         position: absolute;
         pointer-events: none;
         top: 0.125em;
         left: 0.125em;
         transition: left 0.5s ease, box-shadow 0.5s ease, border 0.5s ease, top 0.5s ease;
-        background-color: #EDDDD4;
-        background: linear-gradient(135deg, #edddd4 0%, #fcfafa 50%, #edddd4 51%, #fcfafa 100%);
+        background: #EDDDD4 linear-gradient(135deg, #edddd4 0%, #fcfafa 50%, #edddd4 51%, #fcfafa 100%);
         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#fefefe',GradientType=1 );
         box-shadow: 0 0 0.3125em 0.0625em #EDDDD4;
         border: 0.3125em solid rgba(237, 221, 212, 0.5);
@@ -378,13 +376,11 @@
         content: '';
         height: 1.2375em;
         width: 1.2375em;
-        background: red;
         top: -0.0625em;
         left: -0.0625em;
         position: absolute;
         border-radius: 2.5em;
-        background-color: #FFFFFF;
-        background: radial-gradient(ellipse at center, white 0%, #ffbe0b 50%, #fb5607 100%);
+        background: #FFFFFF radial-gradient(ellipse at center, white 0%, #ffbe0b 50%, #fb5607 100%);
         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefcea', endColorstr='#f1da36',GradientType=1 );
         transition: opacity 0.5s ease;
         opacity: 0;
