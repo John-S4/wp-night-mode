@@ -16,7 +16,7 @@ A simple WP plugin for night mode. It doesn't do anything too fancy or complicat
 ## The plugin in action
 
 <p align="center">
-  <img src="screens/platforma_eko_sustainability.png" width="350">   <img src="screens/mysterious_beans.jpg" width="350">
+  <img src="screens/platforma_eko_sustainability.png" width="33%">   <img src="screens/mysterious_beans.jpg" width="33%"> <img src="screens/s4-lightdark.jpg" width="33%">
 </p>
 
 ## Changelog
