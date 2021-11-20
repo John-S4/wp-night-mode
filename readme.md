@@ -1,4 +1,4 @@
-# WP Night Mode
+# WP Light | Dark
 
 [![CodeFactor](https://www.codefactor.io/repository/github/s4-hosting/wp-night-mode/badge)](https://www.codefactor.io/repository/github/s4-hosting/wp-night-mode) [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=S4-Hosting_wp-night-mode&metric=security_rating)](https://sonarcloud.io/dashboard?id=S4-Hosting_wp-night-mode) [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=S4-Hosting_wp-night-mode&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=S4-Hosting_wp-night-mode)
 
